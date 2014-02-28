@@ -1,0 +1,11 @@
+Python script to acquire data through serial port
+
+Data expected in format "<data1> <data2>\n"
+Can be changed based on requirement.
+
+Uses pyserial and matplotlib.
+
+matplotlib has additional libraries, follow instructions for installation in Install_guide_for_libraries.txt
+
+
+

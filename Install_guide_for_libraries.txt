@@ -1,0 +1,34 @@
+
+
+Install Guide for Python and relevant packages
+
+Install Python2.7
+	Double click on python-2.7.6.msi
+	Select all default options. 
+	This will install python at C:\Python27
+
+Install Serial port package pySerial
+	Double click on pyserial-2.7.win32.exe
+
+Install matplotlib dependencies
+	--numpy
+		Double click on numpy-1.8.0-win32-superpack-python2.7.exe
+	--pyparsing
+		Double click on pyparsing-2.0.1.win32-py2.7.exe
+	--dateutil
+		Copy 
+		.\dateutil\dateutil
+		.\dateutil\python_dateutil.egg-info
+
+		to C:\Python27\Lib\site-packages
+
+Install matplotlib package
+	Double click on matplotlib-1.3.1.win32-py2.7.exe
+
+
+
+	
+		
+
+	
+
